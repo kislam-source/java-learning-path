@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+
+# VS Code
+.vscode/
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# Build
+target/
+out/
